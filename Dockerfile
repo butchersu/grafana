@@ -1,1 +1,1 @@
-FROM hub.docker.com/grafana/grafana:9.5.3
+FROM grafana/grafana:9.5.3
